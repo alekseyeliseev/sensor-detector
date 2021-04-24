@@ -2,6 +2,7 @@
 
 ## Создание виртуального окружения
 `python3 -m venv venv`
+`source venv/bin/activate`
 
 ## Установка зависимостей
 `pip install -r requirements.txt`
